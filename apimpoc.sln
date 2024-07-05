@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apimpoc", "apimpoc.csproj", "{52AD8430-A8CE-486C-946F-A88A619B24A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AD8430-A8CE-486C-946F-A88A619B24A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AD8430-A8CE-486C-946F-A88A619B24A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AD8430-A8CE-486C-946F-A88A619B24A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AD8430-A8CE-486C-946F-A88A619B24A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B9D731-7508-4D6A-9EAD-3796A4BC9492}
+	EndGlobalSection
+EndGlobal
